@@ -1,2 +1,2 @@
 # pdn-enpg
-Paint.NET support for Nintendo DS ENPG file format.
+Nintendo DS ENPG file format support for Paint.NET.
